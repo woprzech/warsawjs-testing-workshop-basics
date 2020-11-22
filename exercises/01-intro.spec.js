@@ -1,6 +1,11 @@
-it('example test should pass', () => {
-    expect(true).toBe(true);
+describe('example', () => {
+
+    test('example test should pass', () => {
+        expect(true).toBe(true);
+    });
 });
+
+
 
 // DEMO
 
